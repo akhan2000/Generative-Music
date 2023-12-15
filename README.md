@@ -1,10 +1,10 @@
-#Music Synthesis Software
+# Music Synthesis Software
 
-#Overview
+# Overview
 
 "Music Gen" is a pioneering software that employs Natural Language Processing (NLP) and AI to convert textual descriptions into MIDI music compositions. It stands at the intersection of linguistic expression and musical creativity, offering users a unique way to generate music based on their descriptive inputs.
 
-#Features
+# Features
 
 Text-to-Music Translation: Converts detailed textual descriptions into complex MIDI compositions.
 
@@ -14,7 +14,7 @@ MIDI Compatibility: Outputs compositions in MIDI format, compatible with a wide 
 
 Dynamic Music Theory Application: Applies a variety of scales and chord progressions corresponding to different musical genres, based on the input text.
 
-#Installation
+# Installation
 
 Prerequisites:
 
