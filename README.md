@@ -29,7 +29,7 @@ Copy code
 git clone https://github.com/akhan2000/Generative-Music
 
 # Navigate to the project directory
-cd text-to-melody
+cd Generative-Music
 
 # Install the required Python libraries
 pip install -r requirements.txt
