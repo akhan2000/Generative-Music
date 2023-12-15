@@ -54,5 +54,7 @@ Contact Information
 For any queries related to "Music Gen," please contact:
 
 Name: Asfandyar Khan
+
 Email: AK556@duke.edu
+
 Institution: Duke University
