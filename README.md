@@ -40,12 +40,12 @@ To use the software, run the main.py script with a textual description of the mu
 python Music-Gen.py  "Create a lively jazz melody in the key of E at 140 bpm"
 The script will process the input and generate a MIDI file corresponding to the described music.
 
-Contributing
+# Contributing
 
 Contributions to "Music Gen" are welcome! If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request. Please adhere to standard Python coding conventions and write clear, commented code.
 
 
-Acknowledgements
+# Acknowledgements
 
 This project was developed at Duke University. Special thanks to the Computer Science and Music Departments for their support and guidance, and to all volunteer users who provided invaluable feedback during the testing phase.
 
