@@ -23,32 +23,29 @@ MIDIUtil library
 OpenAI GPT API key
 To install the software:
 
-bash
-Copy code
+
 # Clone the repository
 git clone https://github.com/akhan2000/Generative-Music
 
 # Navigate to the project directory
-cd text-to-melody
+cd Generative-Music
 
 # Install the required Python libraries
 pip install -r requirements.txt
-Usage
+
+# Usage
 To use the software, run the main.py script with a textual description of the music you want to generate. For example:
 
-python
-
-Copy code
 # Run the script with a description
-python main.py "Create a lively jazz melody in the key of E at 140 bpm"
+python Music-Gen.py  "Create a lively jazz melody in the key of E at 140 bpm"
 The script will process the input and generate a MIDI file corresponding to the described music.
 
-Contributing
+# Contributing
 
 Contributions to "Music Gen" are welcome! If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request. Please adhere to standard Python coding conventions and write clear, commented code.
 
 
-Acknowledgements
+# Acknowledgements
 
 This project was developed at Duke University. Special thanks to the Computer Science and Music Departments for their support and guidance, and to all volunteer users who provided invaluable feedback during the testing phase.
 
@@ -57,5 +54,7 @@ Contact Information
 For any queries related to "Music Gen," please contact:
 
 Name: Asfandyar Khan
+
 Email: AK556@duke.edu
+
 Institution: Duke University
